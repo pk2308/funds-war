@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.15.0
+Bnd-LastModified: 1642886187093
+Bundle-Name: Funds
+Bundle-Description: Funds war
+Bundle-SymbolicName: Funds
+Bundle-Version: v2
+Built-By: DELL
+Build-Jdk: 11.0.13
+
